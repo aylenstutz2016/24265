@@ -40,7 +40,7 @@ p {
 /* Rotación */
 .rotado {
     width: 40%;
-    transform: rotate(45deg);
+    transform: rotate(5deg);
 }
 
 /* Animación */
